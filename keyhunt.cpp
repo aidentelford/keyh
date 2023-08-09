@@ -268,7 +268,7 @@ uint64_t *steps = NULL;
 unsigned int *ends = NULL;
 uint64_t N = 0;
 
-uint64_t N_SEQUENTIAL_MAX = 0x100000000;
+uint64_t N_SEQUENTIAL_MAX = 0x1000000000000;
 uint64_t DEBUGCOUNT = 0x400;
 uint64_t u64range;
 
